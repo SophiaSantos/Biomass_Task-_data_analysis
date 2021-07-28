@@ -6,3 +6,4 @@ R scripts with the code to produce all graphs present in the poster presentation
 
 - bar plots
 - polar histogram
+- PCA and Hclust analysis
